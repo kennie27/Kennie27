@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Yoooh!:
 🌱 I’m currently learning kotlin<br>👯 I’m looking to collaborate on Anything that will add value to the developer workspace<br>💬 Ask me about javascript, Python, SQl, Firebase, React, conversation ai<br>📫 How to reach me: nderuken@gmail.com<br>⚡ Fun fact: I craft code and design with finesse—where functionality meets flair
 
 
